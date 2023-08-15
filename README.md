@@ -9,5 +9,3 @@ Adds the following custom resolutions for the ROG Ally:
 - 640x360
 
 _Not all will be selectable in every game or on your desktop_
-
-[Download reg file](https://github.com/AllyPal/Rog-Ally-Custom-Resolutions/raw/main/Ally%20custom%20resolutions.reg)
