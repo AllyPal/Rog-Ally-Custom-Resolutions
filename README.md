@@ -1,6 +1,6 @@
 # Rog-Ally-Custom-Resolutions
 
-Adds the following custom resolutions for the ROG Ally:
+Registry file to add the following custom resolutions for the ROG Ally:
 - 1600x900
 - 1366x768
 - 1024x576
@@ -9,3 +9,7 @@ Adds the following custom resolutions for the ROG Ally:
 - 640x360
 
 _Not all will be selectable in every game or on your desktop_
+
+# Directions
+* Run the registry file
+* Reboot
