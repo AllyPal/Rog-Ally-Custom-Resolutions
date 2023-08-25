@@ -16,8 +16,11 @@ Extended set:
 - 1120x630
 - 960x540
 
-_Not all will be selectable in every game or on your desktop_
-
 # Directions
+* Download your preferred set of resolutions above
 * Run the registry file
 * Reboot
+
+_Not all will be selectable in every game or on your desktop_
+
+[![Github all releases](https://img.shields.io/github/downloads/AllyPal/Rog-Ally-Custom-Resolutions/total.svg)](https://github.com/AllyPal/Rog-Ally-Custom-Resolutions/releases)
