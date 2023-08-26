@@ -17,7 +17,7 @@ Extended set:
 - 960x540
 
 # Directions
-* Download your preferred set of resolutions above
+* Download your preferred set of resolutions
 * Run the registry file
 * Reboot
 
